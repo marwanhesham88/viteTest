@@ -13,10 +13,10 @@ export default function Footer() {
             <div className='text-center'>
               <h3 className='text-3xl text-[#FFFFFF] font-medium'>AROUND THE WEB</h3>
               <div className='p-3 '>
-              <i class="fa-brands fa-facebook  border-white border rounded-full p-2 mx-1"></i>
-              <i class="fa-brands fa-twitter  border-white border rounded-full p-2 mx-1"></i>
-              <i class="fa-brands fa-linkedin-in  border-white border rounded-full p-2 mx-1"></i>
-              <i class="fa-solid fa-globe  border-white border rounded-full p-2 mx-1"></i>
+              <i className="fa-brands fa-facebook  border-white border rounded-full p-2 mx-1"></i>
+              <i className="fa-brands fa-twitter  border-white border rounded-full p-2 mx-1"></i>
+              <i className="fa-brands fa-linkedin-in  border-white border rounded-full p-2 mx-1"></i>
+              <i className="fa-solid fa-globe  border-white border rounded-full p-2 mx-1"></i>
               </div>
             </div>
             <div className='text-center'>

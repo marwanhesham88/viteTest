@@ -17,10 +17,10 @@ export default function Contact() {
             </div>
             <div className='md:w-2/3 p-3 mx-auto mt-5 sm:w-full'>
            <form action="">
-            <input type="text" placeholder="userName" name="userName" class="form-control border-b py-3 focus:outline-0 my-10"></input>
-            <input type="text" placeholder="userAge" name="userName" class="form-control border-b py-3 focus:outline-0 mb-10"></input>
-            <input type="text" placeholder="userEmail" name="userName" class="form-control border-b py-3 focus:outline-0 mb-10"></input>
-            <input type="text" placeholder="userPassword" name="userName" class="form-control border-b py-3 focus:outline-0 mb-10"></input>
+            <input  placeholder="userName" name="userName" className="form-control border-b py-3 focus:outline-0 my-10"></input>
+            <input  placeholder="userAge" name="userName" className="form-control border-b py-3 focus:outline-0 mb-10"></input>
+            <input  placeholder="userEmail" name="userName" className="form-control border-b py-3 focus:outline-0 mb-10"></input>
+            <input  placeholder="userPassword" name="userName" className="form-control border-b py-3 focus:outline-0 mb-10"></input>
            </form>
             <button className='text-white bg-[#1abc9c] px-3 py-[.375rem] rounded-md'> send Message </button>
             </div>
